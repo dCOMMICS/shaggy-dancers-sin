@@ -14,7 +14,7 @@ import { ColorModeContextProvider } from "./contexts/color-mode";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouteri>
       <GitHubBanner />
       <RefineKbarProvider>
         <ColorModeContextProvider>
@@ -37,7 +37,7 @@ function App() {
           </Refine>
         </ColorModeContextProvider>
       </RefineKbarProvider>
-    </BrowserRouter>
+    </BrowserRouteri>
   );
 }
 
