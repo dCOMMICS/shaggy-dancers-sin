@@ -73,3 +73,6 @@ const App: React.FC = () => {
 };
 
 export default App;
+
+
+// https://refine.dev/docs/tutorial/getting-started/headless/generate-crud-pages/#create-page//
